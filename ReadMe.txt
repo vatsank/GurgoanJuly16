@@ -15,3 +15,11 @@ Using Git
 
     git status and check the status
 
+
+    Git Uses the Staging and Commit
+
+    First the File is staged and then its commited
+
+     git status is used to check the status
+
+     git gives the log messages
