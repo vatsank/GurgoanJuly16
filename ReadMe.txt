@@ -23,3 +23,16 @@ Using Git
      git status is used to check the status
 
      git gives the log messages
+
+  REquest 01
+
+
+    As per the Request 101 from Ramesh adding the following lines 
+
+  
+
+    git clone is used to clone the project
+
+    Master denotes the Master Branch
+
+      Thank you
